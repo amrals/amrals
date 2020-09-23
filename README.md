@@ -2,6 +2,7 @@
 <b>Desenvolvedor Front-End / Web Designer</b>
 
 ### Tecnologias 👾
+<a style='background-color: ##e54c21'></a>
 
 <!--
 **amrals/amrals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
