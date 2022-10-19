@@ -1,5 +1,14 @@
 ### Oi, eu sou o Matheus 👋
 <b>Desenvolvedor Front-End / Web Designer</b>
+<p>
+  <img src='https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=blue' />
+  <img src='https://img.shields.io/badge/-Javascript-white?style=flat&logo=javascript&logoColor=yellow' />
+  <img src='https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript&logoColor=blue' />
+  <img src='https://img.shields.io/badge/-Figma-white?style=flat&logo=figma&logoColor=orange' />
+  <img src='https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=orange' />
+  <img src='https://img.shields.io/badge/-NPM-white?style=flat&logo=npm&logoColor=red' />
+  <img src='https://img.shields.io/badge/-Yarn-white?style=flat&logo=yarn&logoColor=blue' />
+</p>
 <!--
 **amrals/amrals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
